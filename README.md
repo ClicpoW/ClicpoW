@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Plow
 - 👀 I own a Minecraft Server called Verse
-- 🌱 I’m currently learning HTML & CSS & Java
-- 💞️ I’m looking to collaborate on my website
+- 🌱 I’m currently learning Java
 - 📫 How to reach me dm me on discord @clicpow
