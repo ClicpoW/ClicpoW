@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m Plow
+# 👋 Hi, I’m Plow
 
 - 👀 I own a Minecraft Server called Verse
 - 🌱 I’m currently learning Java
